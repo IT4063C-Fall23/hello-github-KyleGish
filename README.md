@@ -26,15 +26,15 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to use git commands and got experience using GitHub Desktop which helped to streamline the experience for me. I was also able to get more experience utilizing VS Code to mange the repository and then update that repository. I originally tried utilizing ATOM and then swapped over to VS Code instead.
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with a little bit of everything. I have never utilized Git and am relatively unfamiliar with how Github works but I was able to figure it out pretty quickly and followed the lab checkpoints to help!
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I am good as of now I believe that I followed the instructions and checkpoints on canvas to help guide the flow of the lab. 
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 ------------------
 ## 📚 References and Citations
